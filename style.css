@@ -1,0 +1,98 @@
+#container {
+
+     display: flex;
+     justify-content: center;
+     margin-top: 25%;
+    gap: 20px;
+     
+}
+
+
+
+
+#card1 { 
+      height: 290px;
+     width: 160px;
+     border: 20px solid salmon;
+     border-radius: 12px;
+     border-right: 20px solid white;
+     border-left: 20px solid white;
+
+}
+#card1:hover { 
+     box-shadow: 5px 5px 10px;
+}
+#card3:hover { 
+     box-shadow: 5px 5px 10px;
+}
+#card2:hover { 
+     box-shadow: 5px 5px 10px;
+}
+#card4:hover { 
+     box-shadow: 5px 5px 10px;
+}
+
+#title1 {
+     text-align: center;
+     font-size: large;
+     font-family: 'Times New Roman', Times, serif;
+     margin-top: 30px;
+}
+
+#desc1 {
+     text-align: center;
+
+     margin-top: 10px;
+}
+
+#img1 {
+     text-align: center;
+     margin-top: 10px;
+}
+
+#card2 {
+     height: 270px;
+     width: 170px;
+     border: 20px solid rgba(240, 67, 67, 0.973);
+     border-radius: 12px;
+     border-right: 20px solid white;
+     border-left: 20px solid white;
+     padding: 10px;
+}
+
+#card3 {
+     height: 270px;
+     width: 170px;
+     border: 20px solid rgb(141, 37, 238);
+     border-radius: 12px;
+     border-right: 20px solid white;
+     border-left: 20px solid white;
+     padding: 10px;
+}
+
+#card4 {
+     height: 270px;
+     width: 130px;
+     border: 20px solid rgb(23, 108, 235);
+     border-radius: 12px;
+     border-right: 20px solid white;
+     border-left: 20px solid white;
+     padding: 10px;
+}
+#desc2 {
+     text-align: center;
+
+     margin-top: 10px;
+}
+#title2 {
+     text-align: center;
+     font-size: large;
+     font-family: 'Times New Roman', Times, serif;
+     margin-top: 20px;
+}
+#title4 {
+     text-align: center;
+     font-size: large;
+     font-family: 'Times New Roman', Times, serif;
+     margin-top: 20px;
+}
